@@ -3,51 +3,65 @@
       {
          "address_components" : [
             {
-               "long_name" : "New York",
-               "short_name" : "New York",
+               "long_name" : "99",
+               "short_name" : "99",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Avenue",
+               "short_name" : "University Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kingston",
+               "short_name" : "Kingston",
                "types" : [ "locality", "political" ]
             },
             {
-               "long_name" : "New York",
-               "short_name" : "NY",
+               "long_name" : "Frontenac County",
+               "short_name" : "Frontenac County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
                "types" : [ "administrative_area_level_1", "political" ]
             },
             {
-               "long_name" : "United States",
-               "short_name" : "US",
+               "long_name" : "Canada",
+               "short_name" : "CA",
                "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K7L 3N6",
+               "short_name" : "K7L 3N6",
+               "types" : [ "postal_code" ]
             }
          ],
-         "formatted_address" : "New York, NY, USA",
+         "formatted_address" : "99 University Ave, Kingston, ON K7L 3N6, Canada",
          "geometry" : {
-            "bounds" : {
-               "northeast" : {
-                  "lat" : 40.9175771,
-                  "lng" : -73.70027209999999
-               },
-               "southwest" : {
-                  "lat" : 40.4773991,
-                  "lng" : -74.25908989999999
-               }
-            },
             "location" : {
-               "lat" : 40.7127753,
-               "lng" : -74.0059728
+               "lat" : 44.2252795,
+               "lng" : -76.49514119999999
             },
-            "location_type" : "APPROXIMATE",
+            "location_type" : "ROOFTOP",
             "viewport" : {
                "northeast" : {
-                  "lat" : 40.9175771,
-                  "lng" : -73.70027209999999
+                  "lat" : 44.2266284802915,
+                  "lng" : -76.49379221970848
                },
                "southwest" : {
-                  "lat" : 40.4773991,
-                  "lng" : -74.25908989999999
+                  "lat" : 44.2239305197085,
+                  "lng" : -76.4964901802915
                }
             }
          },
-         "place_id" : "ChIJOwg_06VPwokRYv534QaPC8g",
-         "types" : [ "locality", "political" ]
+         "place_id" : "ChIJ6SXZzA-r0kwREXIlXE-KiiY",
+         "plus_code" : {
+            "compound_code" : "6GG3+4W Kingston, Ontario, Canada",
+            "global_code" : "87P56GG3+4W"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
       }
    ],
    "status" : "OK"

@@ -4,7 +4,7 @@ import requests, json
 
 api_key = "AIzaSyClKuWY2YUpxRL_ypzI6CcN-U6KDjtHinY"
 
-# url variable store url 
+# url variable store url
 urlgeo 	  = "https://maps.googleapis.com/maps/api/geocode/json?"
 urlplaces = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?"
 
