@@ -45,3 +45,5 @@ print (res_places)
 # closes the image file it wrote to
 fgeo.close()
 fplaces.close()
+
+wait = input("PRESS ENTER TO EXIT.")
