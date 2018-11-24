@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>QEC 2018 - Team 6 Optimal Pizza Price Web Scraper</title>
+    <title>QEC 2018 </title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -42,8 +42,8 @@
 
     <header class="bg-primary text-white">
       <div class="container text-center">
-        <h1>Welcome to the Team 6 Optimal Pizza Price Web Scraper</h1>
-        <p class="lead">Get ready to find the cheapest pizza in your area!</p>
+        <h1>Pizza on a Student's Salary</h1>
+        <p class="lead">Let's Find the Cheapest Pizza in Your Area</p>
       </div>
     </header>
 
@@ -51,34 +51,101 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h2>About this page</h2>
-            <p class="lead">This is a great place to talk about your webpage. This template is purposefully unstyled so you can use it as a boilerplate or starting point for you own landing page designs! This template features:</p>
-            <ul>
-              <li>Clickable nav links that smooth scroll to page sections</li>
-              <li>Responsive behavior when clicking nav links perfect for a one page website</li>
-              <li>Bootstrap's scrollspy feature which highlights which section of the page you're on in the navbar</li>
-              <li>Minimal custom CSS so you are free to explore your own unique design options</li>
-            </ul>
-          </div>
-        </div>
-      </div>
+            <h2>About</h2>
+            <p class="lead">This website will give you and your friends direct access to the exact pizza you are looking for, for the cheapest price out there. We'll show you which pizza places are closest to you and where you will get bang for your buck!</p>
+   
+   
+   
+              </body>
+              </div>
+              </div>
+   </div>
     </section>
+   
+   <section id= "Address">
+       <div class="container">
+           <div class="row">
+               <div class="col-lg-8 mx-auto">
+                   <h2>Address:</h2>
+                   
+                   <form action="/action_page.php">
+                       House Number:
+                       <input type="number" name="quantity" min="1" max="10000">
+                               
+                               </form>
+                   
+                   
+                   <form>
+                       Apartment Number (if Applicable):
+                       <input type="number" name="quantity" min="1" max="10000">
+                        
+                               </form>
+                   
+                   <form>
+                       Street Name:<br>
+                       <input type="text" street="streetName"><br>
+                           
+                           </form>
+                   
+                   <form>
+                       Country:<br>
+                       <input type="text" street="streetName"><br>
+                           
+                           </form>
+                   
+                   <form>
+                       
+                       City:<br>
+                       <input type="text" street="streetName"><br>
+                           
+                           </form>
+                   
+                   <form>
+                       State/Province:<br>
+                       <input type="text" street="streetName"><br>
+                           
+                           </form>
+                   
+                   <form>
+                       Postal Code:<br>
+                       <input type="text" street="streetName"><br>
+                           
+                           </form>
+                   <input type="submit">
 
-    <section id="services" class="bg-light">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 mx-auto">
-            <h2>Services we offer</h2>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
-          </div>
-        </div>
-      </div>
-    </section>
+                   
+               </div>
+           </div>
+       </div>
+                      
+   </section>
+   
+   <section>
+       
+   
+       
+       <div id="googleMap" style="width:100%;height:400px;"></div>
+       
+       <script>
+           function myMap() {
+               var mapProp= {
+                   center:new google.maps.LatLng(51.508742,-0.120850),
+                   zoom:5,
+               };
+               var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+           }
+       </script>
+       
+       <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
+       
+       </section>
+ 
+
 
     <!-- Footer -->
     <footer class="py-5 bg-dark">
       <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
+        <p class="m-0 text-center text-white">Copyright &copy; Team 06 QEC 2018</p>
       </div>
       <!-- /.container -->
     </footer>
