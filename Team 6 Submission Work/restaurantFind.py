@@ -1,4 +1,4 @@
-# returns relevant Google Maps data based on user-input location
+# returns information on nearby pizza places from Google Maps data based on user-input
 
 import requests, json
 
