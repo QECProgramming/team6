@@ -3,51 +3,41 @@
       {
          "address_components" : [
             {
-               "long_name" : "New York",
-               "short_name" : "New York",
-               "types" : [ "locality", "political" ]
-            },
-            {
-               "long_name" : "New York",
-               "short_name" : "NY",
-               "types" : [ "administrative_area_level_1", "political" ]
-            },
-            {
-               "long_name" : "United States",
-               "short_name" : "US",
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
                "types" : [ "country", "political" ]
             }
          ],
-         "formatted_address" : "New York, NY, USA",
+         "formatted_address" : "South Africa",
          "geometry" : {
             "bounds" : {
                "northeast" : {
-                  "lat" : 40.9175771,
-                  "lng" : -73.70027209999999
+                  "lat" : -22.1254239,
+                  "lng" : 38.2216904
                },
                "southwest" : {
-                  "lat" : 40.4773991,
-                  "lng" : -74.25908989999999
+                  "lat" : -47.1313489,
+                  "lng" : 16.2816999
                }
             },
             "location" : {
-               "lat" : 40.7127753,
-               "lng" : -74.0059728
+               "lat" : -30.559482,
+               "lng" : 22.937506
             },
             "location_type" : "APPROXIMATE",
             "viewport" : {
                "northeast" : {
-                  "lat" : 40.9175771,
-                  "lng" : -73.70027209999999
+                  "lat" : -22.1254239,
+                  "lng" : 38.2216904
                },
                "southwest" : {
-                  "lat" : 40.4773991,
-                  "lng" : -74.25908989999999
+                  "lat" : -47.1313489,
+                  "lng" : 16.2816999
                }
             }
          },
-         "place_id" : "ChIJOwg_06VPwokRYv534QaPC8g",
-         "types" : [ "locality", "political" ]
+         "place_id" : "ChIJURLu2YmmNBwRoOikHwxjXeg",
+         "types" : [ "country", "political" ]
       }
    ],
    "status" : "OK"
