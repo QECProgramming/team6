@@ -1,47 +1,133 @@
 {
    "html_attributions" : [],
-   "next_page_token" : "CrQCKgEAAKDzDvjPATfx2YGrWpIzaNqBxhv5VoLl-Srrn9RMqnyBKTD7aceALVZNTPJVsaXYRjmx8TUaEHJpEEBrBB95aKxEya6qu5TUZVloQPER3YxVZalJLBsg46vGP-IvMY4HLArHjw6qWmAVbfjUMrcBXn6-mHl8Cj8kid2Z7po2h232QShjRBk03T7wjSzgHOZTTleEQYPaW5MB3-46gK0_V9xekprDByI6uJG7zeDBixoLpzVzJWhSy0k4b7TxlRciT5JdEP7caEd-nhDBuIOznZfCcXe0lP1HsCXRNGBzAYgPUwGahsBOznOPPHzogfVsCbBZv2Djg6mvBYLkcCHJr0Fzwi0zu_c5SS3q-cQl33dZyCL4IXb496x8HVvcliSOeyYHavpyyOvQut00nhQ2RrkSEDr2h4OwMl8FqdXxCxbnrIgaFHdtEpyjQM8bcByQDkzqZkwLIolX",
+   "next_page_token" : "CrQCKgEAACjWWt2rswuIFcdqtSfjmE9Uv7xTVfaOxtjP-AJDbWqlKYTfE5JAJWpXxEXybmr2yW2kYKRhejdotg6uwV7zJI0DPvaNhTjufX6zFmjZwgrZDTfo09dPVACTIg4iJuOl0Z-P8-xXB1uBeLzCQM0jbAhIgJT-V5KB75RNbyRNCBFr4BAmk1ufn8mvH_15cFK1Up28lM06ptD1-eUCKvr4Jok1KummB4UR4QiNSVyRaKAwYK8dx77ETBdGtL4kXY1kJFEnV_0Po39Ky6fUKflkgE4K2Yz1wdobvFvKxiBO-JRIM3JoR5ecVP5LITYkarQzwWeBoeyi28cGXB03tw6_ej0x20x_P4UTVksITS0WRPzDXDrqKIVSPKxAsZAMSxe9qVUfhGvW8KQfdFDYYAr429ESEAxFPBBmLIsNUaOLvxyty3MaFA_w15FJ6iTubvgOb0rzrNXWcbHp",
    "results" : [
       {
          "geometry" : {
             "location" : {
-               "lat" : 45.2922355,
-               "lng" : -75.8574414
+               "lat" : 44.229007,
+               "lng" : -76.4811285
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.29353532989273,
-                  "lng" : -75.85608817010727
+                  "lat" : 44.23032297989272,
+                  "lng" : -76.47970987010727
                },
                "southwest" : {
-                  "lat" : 45.29083567010728,
-                  "lng" : -75.85878782989272
+                  "lat" : 44.22762332010728,
+                  "lng" : -76.48240952989271
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "d751e3ddb207a4af9aafad65a44f2c171220f820",
-         "name" : "Gabriel Pizza",
+         "id" : "e768b2deeadb7d272b3c3cc2bc56b45c125dc9d8",
+         "name" : "Wooden Heads Gourmet Pizza",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 3348,
+               "height" : 2988,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/115103294148906280754/photos\"\u003eKarim Tantawy\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117352047391558344820/photos\"\u003eJack Yung\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAkcGJ8nG99vMwfpr51pWDZOEW8wBgZ3AwBRG-p0RkYavspMWaQVHyFoEUrOoVtWQg2lPj16FlHMVUFGPnXTHNKZB1h_cw5CaK-VjkZ3HWUJ4sPw2sKyT7ZyXkm2IlscqUEhB7R4PFNezP19pIHJO9GEbfGhRIkUZD24VupNnuzdX1EpRe5NxWqw",
-               "width" : 5027
+               "photo_reference" : "CmRaAAAAcjyRIHe20qnUE0kZvK4MmNGPfbWLvelwvawMCMoYu820HXVG4udrxtRDgNpSmW-JXAIZCGXi1z_fbt8rE7WhlSlkOwbZiD9Z6j2xv8xbGpCapX4wxA5GVdG0BROQgivSEhCPnSc0epEvFy5OD6GVd1hhGhRt26yXu_rXvkaIhFhwGHLsz7lqjw",
+               "width" : 3984
             }
          ],
-         "place_id" : "ChIJGSB6Q1b-zUwRLHB1QGzLL30",
+         "place_id" : "ChIJWx5fNvmq0kwR7WQAIcRlnJA",
          "plus_code" : {
-            "compound_code" : "74RV+V2 Kanata, Ottawa, ON",
-            "global_code" : "87Q674RV+V2"
+            "compound_code" : "6GH9+JG Kingston, Ontario",
+            "global_code" : "87P56GH9+JG"
          },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJWx5fNvmq0kwR7WQAIcRlnJA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "192 Ontario St, Kingston"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.2316837,
+               "lng" : -76.48211689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.23295752989272,
+                  "lng" : -76.48079112010727
+               },
+               "southwest" : {
+                  "lat" : 44.23025787010727,
+                  "lng" : -76.48349077989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4350b16a9275fc7a0ebc7f7b35f8dd61e37a0335",
+         "name" : "Score Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104639361881773430518/photos\"\u003eSonu Singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbjC06zJmlOV9L8EPdATFyDj1K2w7wlb8s6tLOCwW9yin2Xa78QKpP7r7MK00xN470e94HqPc5O2eDKxTEAL6ht6KTaMLmVSNoJdl6nUnFwqwAuDIGaidCq8qe0j5qKuwEhDymvRps81rny-Iyu4Gg7aDGhT24VXK6awK3AgiTufOyapZg_AYdw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ8y8MbP-q0kwRmithyz29n9s",
+         "plus_code" : {
+            "compound_code" : "6GJ9+M5 Kingston, Ontario",
+            "global_code" : "87P56GJ9+M5"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ8y8MbP-q0kwRmithyz29n9s",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "91 Princess St, Kingston"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.25662,
+               "lng" : -76.49692539999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.25796002989272,
+                  "lng" : -76.49574652010728
+               },
+               "southwest" : {
+                  "lat" : 44.25526037010728,
+                  "lng" : -76.49844617989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ca12834cd23de2ce8be4fb820bfe816d7a27d335",
+         "name" : "Paradiso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111400907973808879067/photos\"\u003eJake Kaupp\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_grJZ9blRl03aOAJ3hqG6c24HyZjdWJPfabrs1X4yan6_U58sGo_QzVBbRjJlKFZxJkDPgr-7XEIyfAQUhWxP9IHbDI83gYx_hkCS3GyRbJgiJey7rEMVRYmTtLU7ArYEhCEvlB2Yun0n_2u0VtQHfAUGhRZlX2haAAOK94UXPgWF7VxKyUpdQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJqX0v28Gr0kwRvVhXKeL5YQw",
+         "price_level" : 1,
          "rating" : 4.2,
-         "reference" : "ChIJGSB6Q1b-zUwRLHB1QGzLL30",
+         "reference" : "ChIJqX0v28Gr0kwRvVhXKeL5YQw",
          "scope" : "GOOGLE",
          "types" : [
             "meal_delivery",
@@ -51,154 +137,72 @@
             "food",
             "establishment"
          ],
-         "vicinity" : "62 Stonehaven Dr, Kanata"
+         "vicinity" : "887 Division St, Kingston"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 45.2995639,
-               "lng" : -75.88675850000001
+               "lat" : 44.2359857,
+               "lng" : -76.498746
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.30096197989273,
-                  "lng" : -75.88546472010729
+                  "lat" : 44.23725127989272,
+                  "lng" : -76.49746487010728
                },
                "southwest" : {
-                  "lat" : 45.29826232010728,
-                  "lng" : -75.88816437989273
+                  "lat" : 44.23455162010727,
+                  "lng" : -76.50016452989273
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "7d37d41df06ba212312e998ed01e8fb9a25165f7",
-         "name" : "Colonnade Pizza",
+         "id" : "5e24db888c5d92ac63866473de56da3f1481d182",
+         "name" : "Tata's House Of Pizza & Pasta",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 2620,
+               "height" : 300,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/104883183827145936472/photos\"\u003eA Google User\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107255241746519616473/photos\"\u003eTata&#39;s House of Pizza &amp; Pasta\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAdoyBNwXShoMe6-XaOD8Wfi3Eu7HZvlzbFPUNbCPVUkGEyPD8M667Vq0cbhNINRV12TU-Ns4IvAzspVI_PjAKggZs0Vf8PmiTUVSfv6mTXXLHT12VdFtv7LxT8CZ9yRXyEhAd4E7XPuVKuVQg5L6yN0isGhT58CIT0f0uK9X9g1aoKvVu3t-ZaQ",
-               "width" : 4656
+               "photo_reference" : "CmRaAAAA6MKJ56efFLlSwpdF8icwdvtK2TvkUH4YIVJPcqxlHLiLpVO2F7y9aQJY68mp6tebs_Utt-mkrdKmIhEDoF-jOYfZehzGvA3NhorP44wae-uC2pD4grfA916AgIX3sYYzEhC-WbOMTHloaY4qJOr0vJWHGhSQB8fZ5MSmm5ewCO4SMT8w0VeDXw",
+               "width" : 301
             }
          ],
-         "place_id" : "ChIJGYcInJj_zUwRKS7V2AWahdI",
+         "place_id" : "ChIJa9XQoQmr0kwRmjgl3YYYf4s",
          "plus_code" : {
-            "compound_code" : "74X7+R7 Kanata, Ottawa, ON",
-            "global_code" : "87Q674X7+R7"
+            "compound_code" : "6GP2+9G Kingston, Ontario",
+            "global_code" : "87P56GP2+9G"
          },
-         "price_level" : 2,
-         "rating" : 4,
-         "reference" : "ChIJGYcInJj_zUwRKS7V2AWahdI",
+         "rating" : 4.3,
+         "reference" : "ChIJa9XQoQmr0kwRmjgl3YYYf4s",
          "scope" : "GOOGLE",
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
-         "vicinity" : "461 Hazeldean Rd, Kanata"
+         "vicinity" : "569 Princess St, Kingston"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 45.29346899999999,
-               "lng" : -75.881874
+               "lat" : 44.2310092,
+               "lng" : -76.48091290000001
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.29485287989272,
-                  "lng" : -75.88059977010728
+                  "lat" : 44.23237262989272,
+                  "lng" : -76.47964767010728
                },
                "southwest" : {
-                  "lat" : 45.29215322010727,
-                  "lng" : -75.88329942989272
+                  "lat" : 44.22967297010727,
+                  "lng" : -76.48234732989272
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "feedd15864a93cbc773efa5752d8e3a0feb34bcf",
-         "name" : "Lorenzo's Pizzeria",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 1075,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/108694035621063383371/photos\"\u003eLorenzo&#39;s Pizzeria\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAASgr1Wmjdcf1HbI9zTFx6kkNkvjaGtGdZgn-6Hl1vHA46KKtfCkt3qr4_gPpQGcQDJttofePhJxlh5lZhBMglO6r9hbcuvuUBNBuWv7s-e-xx_5piW9ALtpnv2FJyEVbkEhA9YjAXfSxUtNEgZJgk6yo4GhRXlyXWBViulYmUabAP5PaEvlcJdg",
-               "width" : 1440
-            }
-         ],
-         "place_id" : "ChIJWXOIRqf_zUwR4XS1cOV4UEs",
-         "price_level" : 1,
-         "rating" : 4.8,
-         "reference" : "ChIJWXOIRqf_zUwR4XS1cOV4UEs",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
-         "vicinity" : "100 Castlefrank Rd, Kanata"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 45.2738007,
-               "lng" : -75.8704594
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 45.27523512989271,
-                  "lng" : -75.86922657010729
-               },
-               "southwest" : {
-                  "lat" : 45.27253547010726,
-                  "lng" : -75.87192622989272
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "e1cc11546de42afa7f3ebeb58c9f1fc4981f211f",
-         "name" : "Jo-Jo's Pizzeria Kanata Gourmet Pizza - Shawarma - Subs - Catering",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 4608,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/109513898914398827772/photos\"\u003eRick Biscope\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAK5yWsCR4C-wbP1dKT8j-Int9voQ2SmphOD5H-H1meWtEiw0tQftd9JSLQmBWtH6vhruLq8MbYSE9jiSMPSlwepkkPrl4NAGg_J22A4a2QDwJgmBHkT4xah5A862Ex81oEhCo1F-roEoqrNWlUideTyjrGhTuVM3TTlRQ8KV5-4DJEfCd539bMA",
-               "width" : 2592
-            }
-         ],
-         "place_id" : "ChIJ_YKOXcn4zUwRbZwj8DpUN0I",
-         "rating" : 4.5,
-         "reference" : "ChIJ_YKOXcn4zUwRbZwj8DpUN0I",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
-         "vicinity" : "5373 Fernbank Rd C7, Stittsville"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 45.2618409,
-               "lng" : -75.9253714
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 45.26330612989273,
-                  "lng" : -75.92383362010727
-               },
-               "southwest" : {
-                  "lat" : 45.26060647010728,
-                  "lng" : -75.92653327989272
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "867460c4adcc52aa4adb480061db9ebcee0ed7fc",
-         "name" : "Willy's Pizza",
+         "id" : "33ef5bd9d809d6e260c8545daee26b539301af08",
+         "name" : "Original Bubba's",
          "opening_hours" : {
             "open_now" : true
          },
@@ -206,174 +210,188 @@
             {
                "height" : 4032,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/104233161605772985556/photos\"\u003eJonathan Marshall\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118021042935123472032/photos\"\u003eChris Sampson\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAACszqT7HYjleIMU_S5H8LzxY_jD40GvWZiDERsStC7Dp3HJ49ENIJMtbxaWVko1_3bejU87wPbCoDAg8iPzoll2e6OAHp8ICS1Wn8l7P3ZPCLQZt2PBRq9Yu1XjDRuU06EhC0EOcyNrX6T37T6G2k9cM_GhSVDmgBTvPG5CT0mdXwgsV6Ja6HOw",
+               "photo_reference" : "CmRaAAAAEmRlsbn8lg4Rf_KNMpTAyXujhJkcYZXHTKYdpDppOI7AOwks0O4vwqvU-RpB97OAOBvurWmjxzSVeiblImorRsJuDudxZVaFPZS62Ukctfm1BVzR8gQ7qG-QpWt_nUD5EhB8E884VtzNxjvQ91JZjFOGGhQwGXVH_ligo-nJpCX8mbDkRDvkRQ",
                "width" : 3024
             }
          ],
-         "place_id" : "ChIJ-6AGxlX_zUwRZwr_Pwtt628",
+         "place_id" : "ChIJm_-4Nv-q0kwREz5HQl3XnSc",
          "plus_code" : {
-            "compound_code" : "736F+PV Goulbourn, Ottawa, ON",
-            "global_code" : "87Q6736F+PV"
+            "compound_code" : "6GJ9+CJ Kingston, Ontario",
+            "global_code" : "87P56GJ9+CJ"
          },
-         "rating" : 4.1,
-         "reference" : "ChIJ-6AGxlX_zUwRZwr_Pwtt628",
+         "rating" : 4.2,
+         "reference" : "ChIJm_-4Nv-q0kwREz5HQl3XnSc",
          "scope" : "GOOGLE",
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
-         "vicinity" : "1408 Stittsville Main St, Stittsville"
+         "vicinity" : "349 King St E, Kingston"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 45.255807,
-               "lng" : -75.917323
+               "lat" : 44.2333648,
+               "lng" : -76.49235449999999
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.25709167989272,
-                  "lng" : -75.91607212010729
+                  "lat" : 44.23463082989272,
+                  "lng" : -76.49106717010729
                },
                "southwest" : {
-                  "lat" : 45.25439202010728,
-                  "lng" : -75.91877177989274
+                  "lat" : 44.23193117010728,
+                  "lng" : -76.49376682989272
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "6e0a15dd8314acd77bc185766d13fca5f7572c33",
-         "name" : "Milano Pizza",
+         "id" : "3f823ac0afb5b361726b2c2056cb86a1ff2e9687",
+         "name" : "Bubba's",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 3024,
+               "height" : 315,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/117286895734721022438/photos\"\u003eMazen Kassis\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110785607902886941528/photos\"\u003eBubba&#39;s\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAABwNrHlF2NcebbrywSxnSCLULk9sGDPm0m5qCRPyEMnNQL1wSRNBJDTXJ_B3NCOKncVo9QOFcsV_z7gdUj4cwIc4GfKQemtUka8m_XF-hRxg7Ugbf1_QdVqWZ3ZMtmE5iEhBUA1q2HT1iqt9P4olxzrcrGhTQAeVMFMK5trdvw67G4WP2vP4iJA",
-               "width" : 4032
+               "photo_reference" : "CmRaAAAAJDdjJALzvdZUZi2fAh4KqngX0MyYmlKprxgjdB_H3X4-2plew0Uq-l8UetT4FJalJwpvta46scBwNguk7rRxT1nXnB-mxCVKDY9moj4U_lClqU58BbKYvUl-nZnwr8uXEhDN8FSPdrQOXRILVOinEzvkGhTbVIGOSjinOINgZ4GQxxjkKsXoew",
+               "width" : 848
             }
          ],
-         "place_id" : "ChIJJUL0rbP4zUwRnF4OSedeJ5Y",
+         "place_id" : "ChIJzcVTWger0kwRBt4PCNqhGiw",
          "plus_code" : {
-            "compound_code" : "734M+83 Goulbourn, Ottawa, ON",
-            "global_code" : "87Q6734M+83"
+            "compound_code" : "6GM5+83 Kingston, Ontario",
+            "global_code" : "87P56GM5+83"
          },
-         "rating" : 4.3,
-         "reference" : "ChIJJUL0rbP4zUwRnF4OSedeJ5Y",
+         "rating" : 3.5,
+         "reference" : "ChIJzcVTWger0kwRBt4PCNqhGiw",
          "scope" : "GOOGLE",
-         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
-         "vicinity" : "1589 Stittsville Main St, Stittsville"
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "401 Princess St, Kingston"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 45.256288,
-               "lng" : -75.91809099999999
+               "lat" : 44.2422699,
+               "lng" : -76.49575999999999
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.25760047989272,
-                  "lng" : -75.91680462010727
+                  "lat" : 44.24354742989272,
+                  "lng" : -76.49439882010728
                },
                "southwest" : {
-                  "lat" : 45.25490082010727,
-                  "lng" : -75.91950427989271
+                  "lat" : 44.24084777010728,
+                  "lng" : -76.49709847989273
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "3bd2280b87b3dfcc7bf0920e65d9ebd136dde451",
-         "name" : "Jo-Jo's Pizzeria Stittsville Gourmet Pizza - Shawarma - Subs - Catering",
+         "id" : "0e4c456536bdb2e37d3f1dbca4fff8539a3111b7",
+         "name" : "Gino's Pizza & Spaghetti",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 599,
+               "height" : 1440,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/112094660308857271820/photos\"\u003eJojo&#39;s Pizza &amp; Subs\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104639361881773430518/photos\"\u003eSonu Singh\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAALv3t2lOPaIEri4jXe4lRgCOMj0IPZzcevpPd_NsurQPCBE6JOrB-6Z0tNM52vMIG4Mq19KRzEZOajejRW4keOjvu0rHB9o4E46_7l6FFQLnD0elm6HkqGFQq3KKZ683CEhCNajh5J1jBd0wUfEXcvqJnGhRNdejDdwC-Gx0lOSSZ_Sa44CZE_Q",
-               "width" : 900
+               "photo_reference" : "CmRaAAAAQAiAysYvKEQMJXIeqg5Rh26DDVVx3A14zHb2HtqS6i4ea-6C8zoV4GVbDwlyvY6uTSr8etHwrc-bl7iYAKPfseO2P2dDxReF6EyIi954cFfVHe2dGqdWDpuKN7vJqLDIEhAshJ802EM3wt4oFMDTyOwkGhQ_YcmbiT25NJMGJypyFLMzZtKewg",
+               "width" : 2560
             }
          ],
-         "place_id" : "ChIJaTgbV7L4zUwR-CrDhBUgSiI",
+         "place_id" : "ChIJCW3Zv6er0kwRVV6wmZqzg44",
          "plus_code" : {
-            "compound_code" : "734J+GQ Goulbourn, Ottawa, ON",
-            "global_code" : "87Q6734J+GQ"
+            "compound_code" : "6GR3+WM Kingston, Ontario",
+            "global_code" : "87P56GR3+WM"
          },
-         "rating" : 4.4,
-         "reference" : "ChIJaTgbV7L4zUwR-CrDhBUgSiI",
+         "rating" : 4,
+         "reference" : "ChIJCW3Zv6er0kwRVV6wmZqzg44",
          "scope" : "GOOGLE",
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
-         "vicinity" : "1573 Stittsville Main St, Stittsville"
+         "vicinity" : "472 Division St, Kingston"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 45.297374,
-               "lng" : -75.93940569999999
+               "lat" : 44.2526052,
+               "lng" : -76.4612729
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.29875392989272,
-                  "lng" : -75.93819562010727
+                  "lat" : 44.25395692989272,
+                  "lng" : -76.46003332010727
                },
                "southwest" : {
-                  "lat" : 45.29605427010728,
-                  "lng" : -75.94089527989271
+                  "lat" : 44.25125727010727,
+                  "lng" : -76.46273297989272
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "abb5dcc1fd1446a69999bb328368dcb3bc700bd7",
-         "name" : "Sbarro",
+         "id" : "05255d1232243a1162d525f3363014d21f043b51",
+         "name" : "Pizza Pizza",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 770,
+               "height" : 288,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/114507895200820590441/photos\"\u003eSbarro\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104764860046745162406/photos\"\u003ePizza Pizza\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAA5NRgsvH9n5PHwz71djhXWjZKap9VzQLZQ3ya2Xue132InsivLO4JO5l9vIiRXqhdx95WyDaS9e5_MK2OXx_yeACiORpZ9iQ4gb3D3iPeT0Sp5KnV9Zoc00_jceoXZPLyEhDwGOkkSQeCT25yNRNez2sWGhTAIM3Is4bKdoQgnJkywk8Y_276Ug",
-               "width" : 1158
+               "photo_reference" : "CmRaAAAACIZiVtUSqdlPkBn1uAkcr9ruyhwoAhrahAdEr7V87YmlZ3b3D0pgz46twtNgWxRyTDJY2gSH85KvdJWOy9IFRwmDoVh_n-bealzkdR9AklnZ2II8GvRs8ft4V-pbBL3MEhAPH9L6lY8ZsiKixgj5jVWZGhT-DH70D-mQEz2KUWHa-6UxzOLPBA",
+               "width" : 512
             }
          ],
-         "place_id" : "ChIJjRo9y4oA0kwRyN1QanzPSdE",
+         "place_id" : "ChIJ2dcO4AmC0kwRo2A5b2CP4QM",
          "plus_code" : {
-            "compound_code" : "73W6+W6 Goulbourn, Ottawa, ON",
-            "global_code" : "87Q673W6+W6"
+            "compound_code" : "7G3Q+2F Kingston, Ontario",
+            "global_code" : "87P57G3Q+2F"
          },
-         "rating" : 3.4,
-         "reference" : "ChIJjRo9y4oA0kwRyN1QanzPSdE",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJ2dcO4AmC0kwRo2A5b2CP4QM",
          "scope" : "GOOGLE",
-         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
-         "vicinity" : "8555 Promenade Campeau Dr, Ottawa"
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "760 15, Kingston"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 45.2933502,
-               "lng" : -75.8937131
+               "lat" : 44.235382,
+               "lng" : -76.4966776
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.29468997989272,
-                  "lng" : -75.89251207010729
+                  "lat" : 44.23655062989273,
+                  "lng" : -76.49547332010727
                },
                "southwest" : {
-                  "lat" : 45.29199032010727,
-                  "lng" : -75.89521172989272
+                  "lat" : 44.23385097010728,
+                  "lng" : -76.49817297989271
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "08516a9f66615af8c088797d7ab1d073071322db",
+         "id" : "53c7f8002dc5626b0e53cfe9f4ee72468af35761",
          "name" : "Little Caesars Pizza",
          "opening_hours" : {
             "open_now" : true
@@ -382,20 +400,20 @@
             {
                "height" : 3000,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/105944793878054701566/photos\"\u003eLittle Caesars Pizza\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117191133357737155840/photos\"\u003eLittle Caesars Pizza\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAA0VPE3ltuciwUuUSNMrdBcSmcshxiQe9ItYRWLgIv7PlX3-IQ-zTK8MnASGZgrwqcnum3p7uLmyvALiUbGZv2Fix4m8PCc9eLmjq57Xk1Cr8Ju6yvpho4Y2XOkH8csFJzEhCVCF8_Z62JhPSIqOxVwPMkGhQcizubgBGcDjxZgKZ24Ee9ucN_0w",
+               "photo_reference" : "CmRaAAAAwNJdKW3Qawu7nRVwmFG5Oxq2tkciUZveUYPhKr_bFjFGCR6WwBJ-PaIq1sQ3kMWP-ydCBFf2uSo5loWfncxlS49k4HcM6QSw4XjrcfV3-7yObNDuATJM7qWrFYHr4R1nEhB603t6qMeQ2eui8WPCCDYpGhTo5qjcaSfq37PvxaEjGTo393Wmxg",
                "width" : 3000
             }
          ],
-         "place_id" : "ChIJ53G__HX_zUwRVSb0f5hC_Bs",
+         "place_id" : "ChIJ4UqCBair0kwRcEdM48UznbE",
          "plus_code" : {
-            "compound_code" : "74V4+8G Kanata, Ottawa, ON",
-            "global_code" : "87Q674V4+8G"
+            "compound_code" : "6GP3+58 Kingston, Ontario",
+            "global_code" : "87P56GP3+58"
          },
          "price_level" : 1,
-         "rating" : 3.9,
-         "reference" : "ChIJ53G__HX_zUwRVSb0f5hC_Bs",
+         "rating" : 4.1,
+         "reference" : "ChIJ4UqCBair0kwRcEdM48UznbE",
          "scope" : "GOOGLE",
          "types" : [
             "meal_takeaway",
@@ -404,49 +422,49 @@
             "food",
             "establishment"
          ],
-         "vicinity" : "500 Hazeldean Rd, Kanata"
+         "vicinity" : "507 Princess St, Kingston"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 45.3012218,
-               "lng" : -75.88109279999999
+               "lat" : 44.24028999999999,
+               "lng" : -76.5260658
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.30265842989272,
-                  "lng" : -75.87981637010728
+                  "lat" : 44.24163207989272,
+                  "lng" : -76.52480477010727
                },
                "southwest" : {
-                  "lat" : 45.29995877010728,
-                  "lng" : -75.88251602989273
+                  "lat" : 44.23893242010728,
+                  "lng" : -76.52750442989272
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "503627e56caf0c185c21bf14c15032d94d3e1542",
+         "id" : "3854ded2b97e15d71227f7a949b56614f44a90b9",
          "name" : "Pizza Pizza",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 3006,
+               "height" : 4032,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/101365752550887548228/photos\"\u003es Nach\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112320420682278191719/photos\"\u003eNarinder Kaur\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAzHZI7DzkTnlXUOP67c-GIQxk-iyZLSogJz8r8s-_xI5TP9gWlqvpZzVmaY5jsWWFmrvRltPjs4u8PE_57cbnGkPqQnKFlce_CgotA6oTqL3GMPslJAoMgdI775wiFqwiEhDrUPc3gBQORmzDj90hNbqUGhRo44aFP5SW-zf7vUU4FMce6hsAbQ",
-               "width" : 5344
+               "photo_reference" : "CmRaAAAAZlp8lL2iSM3jbK8cHHc5fhfNHAXbCmy8IL2JYSmD0lx4UsoFXkZDmOxvLJ5hZdAzS0XqBzvq3sM_moYcIUNwSCXraYslN1WuWLdo_SOVboNuWeLbRdV3l555cHEmHp-TEhDCMhy0uootFaIbjZL7DiaCGhR0p7bx3tCsUYtEUm288tap8RMaPA",
+               "width" : 3024
             }
          ],
-         "place_id" : "ChIJ-R_8O5__zUwRzTjD3rULGhc",
+         "place_id" : "ChIJ7_ujnIGr0kwRr0QHqgng1mQ",
          "plus_code" : {
-            "compound_code" : "8429+FH Kanata, Ottawa, ON",
-            "global_code" : "87Q68429+FH"
+            "compound_code" : "6FRF+4H Kingston, Ontario",
+            "global_code" : "87P56FRF+4H"
          },
          "price_level" : 1,
-         "rating" : 3.6,
-         "reference" : "ChIJ-R_8O5__zUwRzTjD3rULGhc",
+         "rating" : 3.8,
+         "reference" : "ChIJ7_ujnIGr0kwRr0QHqgng1mQ",
          "scope" : "GOOGLE",
          "types" : [
             "meal_delivery",
@@ -456,49 +474,152 @@
             "food",
             "establishment"
          ],
-         "vicinity" : "420 Hazeldean Rd, Kanata"
+         "vicinity" : "277 Bath Rd, Kingston"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 45.297659,
-               "lng" : -75.888121
+               "lat" : 44.23488,
+               "lng" : -76.4962427
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.29908922989272,
-                  "lng" : -75.88686852010727
+                  "lat" : 44.23616967989273,
+                  "lng" : -76.49494177010727
                },
                "southwest" : {
-                  "lat" : 45.29638957010727,
-                  "lng" : -75.88956817989272
+                  "lat" : 44.23347002010728,
+                  "lng" : -76.49764142989272
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "783c559495911d071583834445041d2dce13a909",
+         "id" : "aa5c5dae727e5c8dafdbd95f456fa9dec9cd437c",
+         "name" : "Papa John's Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115934242944260351709/photos\"\u003eQuin Suitor\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATKSimCvzMDjmSaVgy_BR1gHenmAjNDh8yhyfoQClUoFidKP2thS_1GJ0tItKIN_BbkzhQcUc3UFPEjgJovi0LYWGqJ5fEOog-g3e9ypyXbaLdzggiNBaB44i1ta51F8rEhCFvURD8xjCZUCzPszTyGdqGhQ000bdis7rGEVhX21xr5zn6tjayQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJU9WvEair0kwRGlSKS7q1jJM",
+         "plus_code" : {
+            "compound_code" : "6GM3+XG Kingston, Ontario",
+            "global_code" : "87P56GM3+XG"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJU9WvEair0kwRGlSKS7q1jJM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "503 Princess St, Kingston"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.233035,
+               "lng" : -76.4926322
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.23432937989273,
+                  "lng" : -76.49115042010727
+               },
+               "southwest" : {
+                  "lat" : 44.23162972010728,
+                  "lng" : -76.49385007989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ed5c4a782a4a9ca091fbc2da6d2103ad14f5e0ae",
+         "name" : "Pizza Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112998838293878478800/photos\"\u003eyandy xin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuCi0vwyFk2a0WktaAie2lA-hYwGqY5YbDZGV-sNCH2paDd9ihvf8te0lOUfb4CjWEkHGXA8OgrNsduJ-l_I6n46OcAlhQ23E5ouREwTqw0SMybEruLbn2zwW1GI90NVSEhABLzuaY1vP1isnvfgBVbPnGhS93ixK8zFQeeUSIvCRzaJFyTRsWQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJLd4MXQer0kwRBt3p0by1xLE",
+         "plus_code" : {
+            "compound_code" : "6GM4+6W Kingston, Ontario",
+            "global_code" : "87P56GM4+6W"
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "ChIJLd4MXQer0kwRBt3p0by1xLE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "414 Princess St, Kingston"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.267199,
+               "lng" : -76.500534
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.26861427989272,
+                  "lng" : -76.49915282010727
+               },
+               "southwest" : {
+                  "lat" : 44.26591462010727,
+                  "lng" : -76.50185247989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "645c792efc72e6ee4619bb37b58f362efc7e070e",
          "name" : "Pizza Hut",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 4608,
+               "height" : 4048,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/101238002301869122590/photos\"\u003eFaizan Khan\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103454123332178707393/photos\"\u003eDharmesh Patel\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAKlXqNnXuYKznFr6RhDzR2CyPT62h0oE5HTwAZ01ZUsdxDW-x76HjalkeZzdYd6-_7z5EGAGB20JY4QUMOu6GY8HCrsetTUTWYZxlMjJDNv3Hc1n9-66Wfi78WzRtFoEeEhB-WgEXhBDW16k8pcht0DmdGhRyiJPQvaN59xEz0rPNxLSYMI_VtQ",
-               "width" : 2592
+               "photo_reference" : "CmRaAAAAS_fRkF_XdNtMnIO46Yt_vig1C_1prKVFqLhqzNIB5RejgM_L_IdK98M8cR26A-QP4pExc9U-TrDPrQJx6mwaaUZUM7F5_ZNwZ13t90vLE73T8L6paHHOBCGHKkz0UhYQEhDo3fDPs5XCYsm5nZokKwLGGhQqAUa2xkHqapD4eCxZ_IScqx1LSA",
+               "width" : 3036
             }
          ],
-         "place_id" : "ChIJ-R_8O5__zUwRq8D6OPx3UkE",
+         "place_id" : "ChIJsfv3BeSr0kwRcG7Oz00KEcI",
          "plus_code" : {
-            "compound_code" : "74X6+3Q Kanata, Ottawa, ON",
-            "global_code" : "87Q674X6+3Q"
+            "compound_code" : "7F8X+VQ Kingston, Ontario",
+            "global_code" : "87P57F8X+VQ"
          },
          "price_level" : 2,
-         "rating" : 3.3,
-         "reference" : "ChIJ-R_8O5__zUwRq8D6OPx3UkE",
+         "rating" : 3.6,
+         "reference" : "ChIJsfv3BeSr0kwRcG7Oz00KEcI",
          "scope" : "GOOGLE",
          "types" : [
             "meal_delivery",
@@ -508,49 +629,84 @@
             "food",
             "establishment"
          ],
-         "vicinity" : "474 Hazeldean Rd, Kanata"
+         "vicinity" : "39 Warne Crescent, Kingston"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 45.2685986,
-               "lng" : -75.9315909
+               "lat" : 44.2290652,
+               "lng" : -76.49497319999999
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.26989857989272,
-                  "lng" : -75.93018477010727
+                  "lat" : 44.23041677989273,
+                  "lng" : -76.49371447010728
                },
                "southwest" : {
-                  "lat" : 45.26719892010728,
-                  "lng" : -75.93288442989271
+                  "lat" : 44.22771712010729,
+                  "lng" : -76.49641412989273
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "fc3e2abd1579604afe2d1ccf89a44fdc05a464fd",
-         "name" : "Pizza Pizza",
+         "id" : "bb54fa61b4594ce4939ecd3478a08407303f3d3e",
+         "name" : "pizza pizza",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJAZwdGQSr0kwRxGnANLx-5CM",
+         "plus_code" : {
+            "compound_code" : "6GH4+J2 Kingston, Ontario",
+            "global_code" : "87P56GH4+J2"
+         },
+         "price_level" : 1,
+         "rating" : 0,
+         "reference" : "ChIJAZwdGQSr0kwRxGnANLx-5CM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "103 Clergy St W, Kingston"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.2653494,
+               "lng" : -76.49674089999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.26676647989272,
+                  "lng" : -76.49548947010726
+               },
+               "southwest" : {
+                  "lat" : 44.26406682010728,
+                  "lng" : -76.49818912989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2e767d9c557359e1c1b60c9af11b7120d5f350b0",
+         "name" : "Domino's",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 4618,
+               "height" : 1530,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/106108739131435907447/photos\"\u003eKING KONG\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110591089216423315703/photos\"\u003emochaguy 22\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAPg2CfeCpp_RZfe8kC99yOYJMytjh0xi9RMiq-B3qfqQeuaY5xuHNYbizJ-090_PkjTZG9nCaNFnaAyb9wg4D5xqH2kDVrfmMbli_npYIGcPu-9nb_vT4lYi-hoe_6fsMEhByT0TwHZTLzSp8pRLfLGzDGhSU8xXS9tkvA296SMMEfULKi3Rh8w",
-               "width" : 3464
+               "photo_reference" : "CmRaAAAAPccP7u5CfyW3LOicpfzZiu2HCl29oJCUFLWlDUSWIwxOsBDCwC-Br9sk74VWEsH8VCC8P_Xj8biCk1yKmIU4BgI2ooTUhkEdpdVQdIb1NxJnl2AEEppV-iBmT5IaqfMvEhBMTPAglZvQzwZ04xIU0cEoGhR-j_hX7DGSKmLVHRXJ8jURZ8SQsw",
+               "width" : 2048
             }
          ],
-         "place_id" : "ChIJvSAXMJYFzkwRvQd55peX9uE",
+         "place_id" : "ChIJnYWs7-ar0kwRV7HsR-sptKw",
          "plus_code" : {
-            "compound_code" : "7399+C9 Goulbourn, Ottawa, ON",
-            "global_code" : "87Q67399+C9"
+            "compound_code" : "7G83+48 Kingston, Ontario",
+            "global_code" : "87P57G83+48"
          },
          "price_level" : 1,
          "rating" : 3.8,
-         "reference" : "ChIJvSAXMJYFzkwRvQd55peX9uE",
+         "reference" : "ChIJnYWs7-ar0kwRV7HsR-sptKw",
          "scope" : "GOOGLE",
          "types" : [
             "meal_delivery",
@@ -560,201 +716,89 @@
             "food",
             "establishment"
          ],
-         "vicinity" : "1250 Main Street c09, Stittsville"
+         "vicinity" : "1201 Division St unit g, Kingston"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 45.26294559999999,
-               "lng" : -75.9264318
+               "lat" : 44.2233558,
+               "lng" : -76.52744079999999
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.26436157989272,
-                  "lng" : -75.92497187010729
+                  "lat" : 44.22493382989273,
+                  "lng" : -76.52615527010727
                },
                "southwest" : {
-                  "lat" : 45.26166192010727,
-                  "lng" : -75.92767152989272
+                  "lat" : 44.22223417010728,
+                  "lng" : -76.52885492989272
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "ff6d15d1e895a5dfa3061f0d0882a7445bfd13c9",
-         "name" : "Papa Sam's Restaurant",
-         "opening_hours" : {
-            "open_now" : true
-         },
+         "id" : "ea30e601c1120a3c92f4f7057da605a32d940de7",
+         "name" : "Papa John's",
          "photos" : [
             {
-               "height" : 3120,
+               "height" : 400,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/117909822744340606095/photos\"\u003eLee Tamburano\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114186512902628442042/photos\"\u003eTopRayBoss420\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAcoinM7G_JiFPDnE5-x1tchQF2NAI-iKGgTReJD6wWL1rDmu3yu-i6jXbAaQzsMQjnyRMdic9tZmfGPKqCPScdkUsvSeDV-u6l9_75dMgNivVDAZHTVL6thA42uS4tCJREhBeFokx6jqkg8_2taaQXps1GhSWpn9Ue88ayMvvh-6LH1rpqpJVlw",
-               "width" : 4160
+               "photo_reference" : "CmRaAAAAdFXi6XQgi9hJGvuQb9XD6Z-NrAm9QULMbiQYUjGWjuzG_1iqlVZHqgJo8DwHNElL0-ueuhKLqxL2tX5PQj7wU8Q4ZOpJgErY69a1Ow998TD7i0C7Eim7QnChwruhYl9vEhBUgWPgu_YGcqqvKgzGjJQJGhSRkhFeRlSU_q7m_O-lROINdSj3wg",
+               "width" : 400
             }
          ],
-         "place_id" : "ChIJVVVVwrP4zUwR5YDG2yqkpmo",
-         "rating" : 3.8,
-         "reference" : "ChIJVVVVwrP4zUwR5YDG2yqkpmo",
-         "scope" : "GOOGLE",
-         "types" : [
-            "meal_delivery",
-            "meal_takeaway",
-            "restaurant",
-            "point_of_interest",
-            "food",
-            "establishment"
-         ],
-         "vicinity" : "1374 Main Street North, Stittsville"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 45.2647162,
-               "lng" : -75.9292944
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 45.26610487989272,
-                  "lng" : -75.92799602010729
-               },
-               "southwest" : {
-                  "lat" : 45.26340522010728,
-                  "lng" : -75.93069567989274
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "f18b2e3f2f37797c62b39db60f0a90c4ff66482f",
-         "name" : "Roma Pizzeria",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "place_id" : "ChIJ__8vB6oA0kwRtEFOCxY6Gro",
+         "place_id" : "ChIJRQFqG2ar0kwRBgUWqTW2ACc",
          "plus_code" : {
-            "compound_code" : "737C+V7 Goulbourn, Ottawa, ON",
-            "global_code" : "87Q6737C+V7"
+            "compound_code" : "6FFF+82 Kingston, Ontario",
+            "global_code" : "87P56FFF+82"
          },
-         "rating" : 0,
-         "reference" : "ChIJ__8vB6oA0kwRtEFOCxY6Gro",
+         "rating" : 5,
+         "reference" : "ChIJRQFqG2ar0kwRBgUWqTW2ACc",
          "scope" : "GOOGLE",
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
-         "vicinity" : "1 Hobin St, Stittsville"
+         "vicinity" : "Portsmouth Ave, Kingston"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 45.2740277,
-               "lng" : -75.9634198
+               "lat" : 44.2328401,
+               "lng" : -76.4900756
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.27540872989272,
-                  "lng" : -75.96207597010728
+                  "lat" : 44.23414272989272,
+                  "lng" : -76.48873942010728
                },
                "southwest" : {
-                  "lat" : 45.27270907010728,
-                  "lng" : -75.96477562989271
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "c8236717f80f3923914f5301ef7052d9368c86ae",
-         "name" : "Canada Bread Company limited",
-         "place_id" : "ChIJi5vCB9AA0kwRtV0uwTnvoRY",
-         "plus_code" : {
-            "compound_code" : "72FP+JJ Goulbourn, Ottawa, ON",
-            "global_code" : "87Q672FP+JJ"
-         },
-         "rating" : 4.5,
-         "reference" : "ChIJi5vCB9AA0kwRtV0uwTnvoRY",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
-         "vicinity" : "118 Willowlea Rd, Carp"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 45.29843959999999,
-               "lng" : -75.88963099999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 45.29978382989272,
-                  "lng" : -75.88827482010728
-               },
-               "southwest" : {
-                  "lat" : 45.29708417010728,
-                  "lng" : -75.89097447989272
+                  "lat" : 44.23144307010728,
+                  "lng" : -76.49143907989273
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-         "id" : "cbcae3bc4bad7412ef422f5aa5a699c69e56a53d",
-         "name" : "Milano Pizzeria",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 756,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/117286895734721022438/photos\"\u003eMazen Kassis\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAPhVIPvdo-gm6D5_EPNPUCTE-wfo7sk_WXG0b0Vb4aJOfRa28m7M8hW0rAWRVs9Cv6ZzV_ArTMhFsN9fKbrcrIbLdJ-735U4SCsNm5rkpt8FaDAgN4PX_7toxVp3Vj8_oEhBo1nRwImHog8yfGk8ZkZ0zGhTOH62I-yCAGX2SjUtL_WiwNOmsGg",
-               "width" : 766
-            }
-         ],
-         "place_id" : "ChIJnTmLNJ__zUwRwhaMC0_us4s",
-         "plus_code" : {
-            "compound_code" : "74X6+94 Kanata, Ottawa, ON",
-            "global_code" : "87Q674X6+94"
-         },
-         "rating" : 4.1,
-         "reference" : "ChIJnTmLNJ__zUwRwhaMC0_us4s",
-         "scope" : "GOOGLE",
-         "types" : [
-            "meal_delivery",
-            "meal_takeaway",
-            "restaurant",
-            "point_of_interest",
-            "food",
-            "establishment"
-         ],
-         "vicinity" : "471 Hazeldean Rd, Kanata"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 45.2724542,
-               "lng" : -75.9329283
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 45.27387197989272,
-                  "lng" : -75.93166337010727
-               },
-               "southwest" : {
-                  "lat" : 45.27117232010728,
-                  "lng" : -75.93436302989272
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-         "id" : "73e34e36ac2f1b4578bdc82b60f2b65395897209",
+         "id" : "18e2af45fbf465b12a3e2397ad57c1e6a077cc1d",
          "name" : "Gabriel Pizza",
          "opening_hours" : {
             "open_now" : true
          },
-         "place_id" : "ChIJRZNkcaYA0kwRvuZFD7Gcf18",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111163144603901193636/photos\"\u003eHaydar Alshehabi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_VbzHWJiGBwR-Q5AgcraAsVd5CpmAfBsG8_EjDk2YHRQbqYa-6BBrR8VB4jtv7vyfg_ySC3S92tPnI3mO5LFD68KO8DrWpXp_BeTi16Pd9AVsMwY7uNPzkDdI5d0tzzdEhCV1MDR1TsgHpE0pNVZiHGiGhT1LoyHVF_1npS7lIm4aLX-Xv6RwA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJOQAPYQCr0kwRYCUeZRYjCnQ",
          "plus_code" : {
-            "compound_code" : "73C8+XR Goulbourn, Ottawa, ON",
-            "global_code" : "87Q673C8+XR"
+            "compound_code" : "6GM5+4X Kingston, Ontario",
+            "global_code" : "87P56GM5+4X"
          },
-         "rating" : 3.4,
-         "reference" : "ChIJRZNkcaYA0kwRvuZFD7Gcf18",
+         "rating" : 3.6,
+         "reference" : "ChIJOQAPYQCr0kwRYCUeZRYjCnQ",
          "scope" : "GOOGLE",
          "types" : [
             "meal_delivery",
@@ -764,145 +808,136 @@
             "food",
             "establishment"
          ],
-         "vicinity" : "6081 Hazeldean Rd, Stittsville"
+         "vicinity" : "339 Princess St, Kingston"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 45.2659952,
-               "lng" : -75.93029589999999
+               "lat" : 44.2382438,
+               "lng" : -76.5385713
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.26728642989272,
-                  "lng" : -75.92888027010727
+                  "lat" : 44.23970637989272,
+                  "lng" : -76.53724137010728
                },
                "southwest" : {
-                  "lat" : 45.26458677010728,
-                  "lng" : -75.93157992989271
+                  "lat" : 44.23700672010727,
+                  "lng" : -76.53994102989273
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "9e97914772cc16f104dcb149f2aeabd935bd8457",
-         "name" : "Napoli's Café",
+         "id" : "9f8aec90b6753f25a18ed5c92a4a1b684b6c953e",
+         "name" : "Double Double Pizza Chicken Inc",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 1912,
+               "height" : 3264,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/107677386100120319220/photos\"\u003eNapoli&#39;s Cafe &amp; Grill\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100002744424755040155/photos\"\u003eRanjith chacko\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAAw7AUJSDAjlZldlfmH5-3PFsT8_nUYNVghMMWYwnhdXX6gZFnhspL_t4rgqoOkw71RGS_qG9Exfq4mV-3b2B-TfDYMcQzHBj5B9s4LQMbQqdX_nvAJuZZs9OzJk9yYEwEhCZKULeCYiFjm8956RtczEPGhQjQ4g7uR1dxGnEo63ummvlcH7dpQ",
-               "width" : 1912
+               "photo_reference" : "CmRZAAAAHgliIjIGba0wnkQqgj7C4dBJ4lGsFp6KssnDbn8OTIf9NOaTj5buX3FSEhYM6W1pbXLKlyn8JasnGCPc7svXMtcHXh2txK0nE_R-9kR0SQ5dM0Ic4E_fMkKXXWGI-3wEEhAdd-pzeq4IA6sb_iFGVBqXGhRW-GXkClFpdZX6Gfsj-P3JtKeGAQ",
+               "width" : 2448
             }
          ],
-         "place_id" : "ChIJH5vxjakA0kwRSlAbnt8hbfg",
+         "place_id" : "ChIJ5b4mFYes0kwR6wUgkUMZ5Bw",
          "plus_code" : {
-            "compound_code" : "7389+9V Goulbourn, Ottawa, ON",
-            "global_code" : "87Q67389+9V"
+            "compound_code" : "6FQ6+7H Kingston, Ontario",
+            "global_code" : "87P56FQ6+7H"
          },
-         "price_level" : 2,
-         "rating" : 4.6,
-         "reference" : "ChIJH5vxjakA0kwRSlAbnt8hbfg",
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "ChIJ5b4mFYes0kwR6wUgkUMZ5Bw",
          "scope" : "GOOGLE",
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
-         "vicinity" : "1300 Stittsville Main St, Stittsville"
+         "vicinity" : "546 Bath Rd, Kingston"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 45.2892546,
-               "lng" : -75.9031147
+               "lat" : 44.2269423,
+               "lng" : -76.4968073
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.29066182989273,
-                  "lng" : -75.90183227010729
+                  "lat" : 44.22829332989272,
+                  "lng" : -76.49485982010728
                },
                "southwest" : {
-                  "lat" : 45.28796217010728,
-                  "lng" : -75.90453192989273
+                  "lat" : 44.22559367010727,
+                  "lng" : -76.49755947989271
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "a78195d53e237e016547a42aa0f527edf8177d16",
-         "name" : "Kal's Place Restaurant",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 1080,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/113018337132479316251/photos\"\u003eFawzi Mankal\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAdnGeUkxpsn5qDX_cCYDEw4EbDVt7NPqp-hwsx19RRXSIOEjuhHeHmFzxH9fs34lLPJu_9dVkpekCVzvwvhN2KHXSMbensuk-wYweMvlhwtXSXfrhtF0GEACkFGGTs_j-EhDcTD4v45A4tGt9K_QfvXxqGhSDSH3iffs2wVZXEt3ZPknv2rpx7Q",
-               "width" : 1920
-            }
-         ],
-         "place_id" : "ChIJi0aCvXD_zUwRhmbSHmK8Nc8",
-         "plus_code" : {
-            "compound_code" : "73QW+PQ Kanata, Ottawa, ON",
-            "global_code" : "87Q673QW+PQ"
-         },
-         "price_level" : 2,
-         "rating" : 4.4,
-         "reference" : "ChIJi0aCvXD_zUwRhmbSHmK8Nc8",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
-         "vicinity" : "5517 Hazeldean Rd, Stittsville"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 45.2726573,
-               "lng" : -75.932554
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 45.27395307989272,
-                  "lng" : -75.93109242010726
-               },
-               "southwest" : {
-                  "lat" : 45.27125342010727,
-                  "lng" : -75.93379207989271
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "0312dcc87407ab68e4447a41f629a8a7adcd7670",
-         "name" : "Pocopazzo",
+         "id" : "b261b0d1de1d77cdfcff80bb18a54e076533aab7",
+         "name" : "Pizza Pizza",
          "opening_hours" : {
             "open_now" : false
          },
          "photos" : [
             {
-               "height" : 480,
+               "height" : 399,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/106826276175972791915/photos\"\u003ePoccopazzo\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104155431718601779744/photos\"\u003ePizza Pizza\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAxYGLIUHrKRWq47x8GtXV_7AfosbhOh7oDK1xtjLewJhH2rBDux1WO17UPDb4lkmwvdfkl4b9jePY80JfskPsxsSHMDEkz2D9jdKS1zqgpgyL4hWlBq4s6DIdDVB3eqsuEhDz8-sImPbF9yVHKhlxP0ZrGhS56kFB_LDG58UeRxfN_PF4KtFntQ",
-               "width" : 640
+               "photo_reference" : "CmRaAAAAZp2RinMM8KMaynlh8sd6zDU5YFiu9xUJAcUjVWZ3xSeeOi1cQ00TUMQtpnf9U3QWygwRCsLADyMA3L1-lyU_wyDtmj5UiAWqDKn5EpHqHddzgy765t-BAIv5BJVlDSuOEhCgAEuu-Iw46OwrSbq5JL2EGhRceFEb22dKc-zUJK2CWb25DywQxw",
+               "width" : 399
             }
          ],
-         "place_id" : "ChIJoSBCcaYA0kwRWShCVRyXYjY",
-         "price_level" : 2,
-         "rating" : 4.7,
-         "reference" : "ChIJoSBCcaYA0kwRWShCVRyXYjY",
+         "place_id" : "ChIJRd768ASr0kwRGvG2VmdinZc",
+         "plus_code" : {
+            "compound_code" : "6GG3+Q7 Kingston, Ontario",
+            "global_code" : "87P56GG3+Q7"
+         },
+         "rating" : 4,
+         "reference" : "ChIJRd768ASr0kwRGvG2VmdinZc",
          "scope" : "GOOGLE",
-         "types" : [
-            "meal_takeaway",
-            "store",
-            "restaurant",
-            "point_of_interest",
-            "food",
-            "establishment"
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "68 University Ave D, Kingston"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.2699151,
+               "lng" : -76.4524347
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.27087572989272,
+                  "lng" : -76.45040039999999
+               },
+               "southwest" : {
+                  "lat" : 44.26817607010728,
+                  "lng" : -76.4531128
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "001ca9d07d559b76210707d9f2068fb5f581632e",
+         "name" : "Gino's Pizza and Spaghetti",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116642096958201868836/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-iH67OnFwkERjuQ2NjwzHUWSHtsm95T_Frc3SFyZOjZHkoZIeG38EoR1qjNu31ym1e7HbP8sk3flq0XjjPZEFakOrXiuACkxQrkxdjJGt2PpYy0sRgJs0Wg0WqdEp3thEhBqdSwR-mpnQCY-LHHhNEO4GhTCNQGUB_tdDtONFl6VllDFH6l34g",
+               "width" : 4032
+            }
          ],
-         "vicinity" : "Jackson Trails Mall, 6081 Hazeldean Rd, Stittsville"
+         "place_id" : "ChIJ45iehiSp0kwR0hJCg3Ec7JM",
+         "rating" : 4,
+         "reference" : "ChIJ45iehiSp0kwR0hJCg3Ec7JM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "6-1206, 15, Kingston"
       }
    ],
    "status" : "OK"
