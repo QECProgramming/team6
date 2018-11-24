@@ -1,0 +1,909 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCKgEAAKDzDvjPATfx2YGrWpIzaNqBxhv5VoLl-Srrn9RMqnyBKTD7aceALVZNTPJVsaXYRjmx8TUaEHJpEEBrBB95aKxEya6qu5TUZVloQPER3YxVZalJLBsg46vGP-IvMY4HLArHjw6qWmAVbfjUMrcBXn6-mHl8Cj8kid2Z7po2h232QShjRBk03T7wjSzgHOZTTleEQYPaW5MB3-46gK0_V9xekprDByI6uJG7zeDBixoLpzVzJWhSy0k4b7TxlRciT5JdEP7caEd-nhDBuIOznZfCcXe0lP1HsCXRNGBzAYgPUwGahsBOznOPPHzogfVsCbBZv2Djg6mvBYLkcCHJr0Fzwi0zu_c5SS3q-cQl33dZyCL4IXb496x8HVvcliSOeyYHavpyyOvQut00nhQ2RrkSEDr2h4OwMl8FqdXxCxbnrIgaFHdtEpyjQM8bcByQDkzqZkwLIolX",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2922355,
+               "lng" : -75.8574414
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.29353532989273,
+                  "lng" : -75.85608817010727
+               },
+               "southwest" : {
+                  "lat" : 45.29083567010728,
+                  "lng" : -75.85878782989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d751e3ddb207a4af9aafad65a44f2c171220f820",
+         "name" : "Gabriel Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3348,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115103294148906280754/photos\"\u003eKarim Tantawy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkcGJ8nG99vMwfpr51pWDZOEW8wBgZ3AwBRG-p0RkYavspMWaQVHyFoEUrOoVtWQg2lPj16FlHMVUFGPnXTHNKZB1h_cw5CaK-VjkZ3HWUJ4sPw2sKyT7ZyXkm2IlscqUEhB7R4PFNezP19pIHJO9GEbfGhRIkUZD24VupNnuzdX1EpRe5NxWqw",
+               "width" : 5027
+            }
+         ],
+         "place_id" : "ChIJGSB6Q1b-zUwRLHB1QGzLL30",
+         "plus_code" : {
+            "compound_code" : "74RV+V2 Kanata, Ottawa, ON",
+            "global_code" : "87Q674RV+V2"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJGSB6Q1b-zUwRLHB1QGzLL30",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "62 Stonehaven Dr, Kanata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2995639,
+               "lng" : -75.88675850000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.30096197989273,
+                  "lng" : -75.88546472010729
+               },
+               "southwest" : {
+                  "lat" : 45.29826232010728,
+                  "lng" : -75.88816437989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7d37d41df06ba212312e998ed01e8fb9a25165f7",
+         "name" : "Colonnade Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2620,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104883183827145936472/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdoyBNwXShoMe6-XaOD8Wfi3Eu7HZvlzbFPUNbCPVUkGEyPD8M667Vq0cbhNINRV12TU-Ns4IvAzspVI_PjAKggZs0Vf8PmiTUVSfv6mTXXLHT12VdFtv7LxT8CZ9yRXyEhAd4E7XPuVKuVQg5L6yN0isGhT58CIT0f0uK9X9g1aoKvVu3t-ZaQ",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJGYcInJj_zUwRKS7V2AWahdI",
+         "plus_code" : {
+            "compound_code" : "74X7+R7 Kanata, Ottawa, ON",
+            "global_code" : "87Q674X7+R7"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJGYcInJj_zUwRKS7V2AWahdI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "461 Hazeldean Rd, Kanata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.29346899999999,
+               "lng" : -75.881874
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.29485287989272,
+                  "lng" : -75.88059977010728
+               },
+               "southwest" : {
+                  "lat" : 45.29215322010727,
+                  "lng" : -75.88329942989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "feedd15864a93cbc773efa5752d8e3a0feb34bcf",
+         "name" : "Lorenzo's Pizzeria",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1075,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108694035621063383371/photos\"\u003eLorenzo&#39;s Pizzeria\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASgr1Wmjdcf1HbI9zTFx6kkNkvjaGtGdZgn-6Hl1vHA46KKtfCkt3qr4_gPpQGcQDJttofePhJxlh5lZhBMglO6r9hbcuvuUBNBuWv7s-e-xx_5piW9ALtpnv2FJyEVbkEhA9YjAXfSxUtNEgZJgk6yo4GhRXlyXWBViulYmUabAP5PaEvlcJdg",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJWXOIRqf_zUwR4XS1cOV4UEs",
+         "price_level" : 1,
+         "rating" : 4.8,
+         "reference" : "ChIJWXOIRqf_zUwR4XS1cOV4UEs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "100 Castlefrank Rd, Kanata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2738007,
+               "lng" : -75.8704594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.27523512989271,
+                  "lng" : -75.86922657010729
+               },
+               "southwest" : {
+                  "lat" : 45.27253547010726,
+                  "lng" : -75.87192622989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e1cc11546de42afa7f3ebeb58c9f1fc4981f211f",
+         "name" : "Jo-Jo's Pizzeria Kanata Gourmet Pizza - Shawarma - Subs - Catering",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109513898914398827772/photos\"\u003eRick Biscope\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAK5yWsCR4C-wbP1dKT8j-Int9voQ2SmphOD5H-H1meWtEiw0tQftd9JSLQmBWtH6vhruLq8MbYSE9jiSMPSlwepkkPrl4NAGg_J22A4a2QDwJgmBHkT4xah5A862Ex81oEhCo1F-roEoqrNWlUideTyjrGhTuVM3TTlRQ8KV5-4DJEfCd539bMA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ_YKOXcn4zUwRbZwj8DpUN0I",
+         "rating" : 4.5,
+         "reference" : "ChIJ_YKOXcn4zUwRbZwj8DpUN0I",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "5373 Fernbank Rd C7, Stittsville"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2618409,
+               "lng" : -75.9253714
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.26330612989273,
+                  "lng" : -75.92383362010727
+               },
+               "southwest" : {
+                  "lat" : 45.26060647010728,
+                  "lng" : -75.92653327989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "867460c4adcc52aa4adb480061db9ebcee0ed7fc",
+         "name" : "Willy's Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104233161605772985556/photos\"\u003eJonathan Marshall\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACszqT7HYjleIMU_S5H8LzxY_jD40GvWZiDERsStC7Dp3HJ49ENIJMtbxaWVko1_3bejU87wPbCoDAg8iPzoll2e6OAHp8ICS1Wn8l7P3ZPCLQZt2PBRq9Yu1XjDRuU06EhC0EOcyNrX6T37T6G2k9cM_GhSVDmgBTvPG5CT0mdXwgsV6Ja6HOw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ-6AGxlX_zUwRZwr_Pwtt628",
+         "plus_code" : {
+            "compound_code" : "736F+PV Goulbourn, Ottawa, ON",
+            "global_code" : "87Q6736F+PV"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ-6AGxlX_zUwRZwr_Pwtt628",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "1408 Stittsville Main St, Stittsville"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.255807,
+               "lng" : -75.917323
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.25709167989272,
+                  "lng" : -75.91607212010729
+               },
+               "southwest" : {
+                  "lat" : 45.25439202010728,
+                  "lng" : -75.91877177989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6e0a15dd8314acd77bc185766d13fca5f7572c33",
+         "name" : "Milano Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117286895734721022438/photos\"\u003eMazen Kassis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABwNrHlF2NcebbrywSxnSCLULk9sGDPm0m5qCRPyEMnNQL1wSRNBJDTXJ_B3NCOKncVo9QOFcsV_z7gdUj4cwIc4GfKQemtUka8m_XF-hRxg7Ugbf1_QdVqWZ3ZMtmE5iEhBUA1q2HT1iqt9P4olxzrcrGhTQAeVMFMK5trdvw67G4WP2vP4iJA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJUL0rbP4zUwRnF4OSedeJ5Y",
+         "plus_code" : {
+            "compound_code" : "734M+83 Goulbourn, Ottawa, ON",
+            "global_code" : "87Q6734M+83"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJJUL0rbP4zUwRnF4OSedeJ5Y",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "1589 Stittsville Main St, Stittsville"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.256288,
+               "lng" : -75.91809099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.25760047989272,
+                  "lng" : -75.91680462010727
+               },
+               "southwest" : {
+                  "lat" : 45.25490082010727,
+                  "lng" : -75.91950427989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3bd2280b87b3dfcc7bf0920e65d9ebd136dde451",
+         "name" : "Jo-Jo's Pizzeria Stittsville Gourmet Pizza - Shawarma - Subs - Catering",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 599,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112094660308857271820/photos\"\u003eJojo&#39;s Pizza &amp; Subs\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALv3t2lOPaIEri4jXe4lRgCOMj0IPZzcevpPd_NsurQPCBE6JOrB-6Z0tNM52vMIG4Mq19KRzEZOajejRW4keOjvu0rHB9o4E46_7l6FFQLnD0elm6HkqGFQq3KKZ683CEhCNajh5J1jBd0wUfEXcvqJnGhRNdejDdwC-Gx0lOSSZ_Sa44CZE_Q",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJaTgbV7L4zUwR-CrDhBUgSiI",
+         "plus_code" : {
+            "compound_code" : "734J+GQ Goulbourn, Ottawa, ON",
+            "global_code" : "87Q6734J+GQ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJaTgbV7L4zUwR-CrDhBUgSiI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "1573 Stittsville Main St, Stittsville"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.297374,
+               "lng" : -75.93940569999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.29875392989272,
+                  "lng" : -75.93819562010727
+               },
+               "southwest" : {
+                  "lat" : 45.29605427010728,
+                  "lng" : -75.94089527989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "abb5dcc1fd1446a69999bb328368dcb3bc700bd7",
+         "name" : "Sbarro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 770,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114507895200820590441/photos\"\u003eSbarro\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5NRgsvH9n5PHwz71djhXWjZKap9VzQLZQ3ya2Xue132InsivLO4JO5l9vIiRXqhdx95WyDaS9e5_MK2OXx_yeACiORpZ9iQ4gb3D3iPeT0Sp5KnV9Zoc00_jceoXZPLyEhDwGOkkSQeCT25yNRNez2sWGhTAIM3Is4bKdoQgnJkywk8Y_276Ug",
+               "width" : 1158
+            }
+         ],
+         "place_id" : "ChIJjRo9y4oA0kwRyN1QanzPSdE",
+         "plus_code" : {
+            "compound_code" : "73W6+W6 Goulbourn, Ottawa, ON",
+            "global_code" : "87Q673W6+W6"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJjRo9y4oA0kwRyN1QanzPSdE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "8555 Promenade Campeau Dr, Ottawa"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2933502,
+               "lng" : -75.8937131
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.29468997989272,
+                  "lng" : -75.89251207010729
+               },
+               "southwest" : {
+                  "lat" : 45.29199032010727,
+                  "lng" : -75.89521172989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "08516a9f66615af8c088797d7ab1d073071322db",
+         "name" : "Little Caesars Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105944793878054701566/photos\"\u003eLittle Caesars Pizza\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0VPE3ltuciwUuUSNMrdBcSmcshxiQe9ItYRWLgIv7PlX3-IQ-zTK8MnASGZgrwqcnum3p7uLmyvALiUbGZv2Fix4m8PCc9eLmjq57Xk1Cr8Ju6yvpho4Y2XOkH8csFJzEhCVCF8_Z62JhPSIqOxVwPMkGhQcizubgBGcDjxZgKZ24Ee9ucN_0w",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ53G__HX_zUwRVSb0f5hC_Bs",
+         "plus_code" : {
+            "compound_code" : "74V4+8G Kanata, Ottawa, ON",
+            "global_code" : "87Q674V4+8G"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJ53G__HX_zUwRVSb0f5hC_Bs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "500 Hazeldean Rd, Kanata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.3012218,
+               "lng" : -75.88109279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.30265842989272,
+                  "lng" : -75.87981637010728
+               },
+               "southwest" : {
+                  "lat" : 45.29995877010728,
+                  "lng" : -75.88251602989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "503627e56caf0c185c21bf14c15032d94d3e1542",
+         "name" : "Pizza Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3006,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101365752550887548228/photos\"\u003es Nach\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzHZI7DzkTnlXUOP67c-GIQxk-iyZLSogJz8r8s-_xI5TP9gWlqvpZzVmaY5jsWWFmrvRltPjs4u8PE_57cbnGkPqQnKFlce_CgotA6oTqL3GMPslJAoMgdI775wiFqwiEhDrUPc3gBQORmzDj90hNbqUGhRo44aFP5SW-zf7vUU4FMce6hsAbQ",
+               "width" : 5344
+            }
+         ],
+         "place_id" : "ChIJ-R_8O5__zUwRzTjD3rULGhc",
+         "plus_code" : {
+            "compound_code" : "8429+FH Kanata, Ottawa, ON",
+            "global_code" : "87Q68429+FH"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJ-R_8O5__zUwRzTjD3rULGhc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "420 Hazeldean Rd, Kanata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.297659,
+               "lng" : -75.888121
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.29908922989272,
+                  "lng" : -75.88686852010727
+               },
+               "southwest" : {
+                  "lat" : 45.29638957010727,
+                  "lng" : -75.88956817989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "783c559495911d071583834445041d2dce13a909",
+         "name" : "Pizza Hut",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101238002301869122590/photos\"\u003eFaizan Khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKlXqNnXuYKznFr6RhDzR2CyPT62h0oE5HTwAZ01ZUsdxDW-x76HjalkeZzdYd6-_7z5EGAGB20JY4QUMOu6GY8HCrsetTUTWYZxlMjJDNv3Hc1n9-66Wfi78WzRtFoEeEhB-WgEXhBDW16k8pcht0DmdGhRyiJPQvaN59xEz0rPNxLSYMI_VtQ",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ-R_8O5__zUwRq8D6OPx3UkE",
+         "plus_code" : {
+            "compound_code" : "74X6+3Q Kanata, Ottawa, ON",
+            "global_code" : "87Q674X6+3Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "ChIJ-R_8O5__zUwRq8D6OPx3UkE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "474 Hazeldean Rd, Kanata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2685986,
+               "lng" : -75.9315909
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.26989857989272,
+                  "lng" : -75.93018477010727
+               },
+               "southwest" : {
+                  "lat" : 45.26719892010728,
+                  "lng" : -75.93288442989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fc3e2abd1579604afe2d1ccf89a44fdc05a464fd",
+         "name" : "Pizza Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4618,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106108739131435907447/photos\"\u003eKING KONG\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPg2CfeCpp_RZfe8kC99yOYJMytjh0xi9RMiq-B3qfqQeuaY5xuHNYbizJ-090_PkjTZG9nCaNFnaAyb9wg4D5xqH2kDVrfmMbli_npYIGcPu-9nb_vT4lYi-hoe_6fsMEhByT0TwHZTLzSp8pRLfLGzDGhSU8xXS9tkvA296SMMEfULKi3Rh8w",
+               "width" : 3464
+            }
+         ],
+         "place_id" : "ChIJvSAXMJYFzkwRvQd55peX9uE",
+         "plus_code" : {
+            "compound_code" : "7399+C9 Goulbourn, Ottawa, ON",
+            "global_code" : "87Q67399+C9"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJvSAXMJYFzkwRvQd55peX9uE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "1250 Main Street c09, Stittsville"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.26294559999999,
+               "lng" : -75.9264318
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.26436157989272,
+                  "lng" : -75.92497187010729
+               },
+               "southwest" : {
+                  "lat" : 45.26166192010727,
+                  "lng" : -75.92767152989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ff6d15d1e895a5dfa3061f0d0882a7445bfd13c9",
+         "name" : "Papa Sam's Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117909822744340606095/photos\"\u003eLee Tamburano\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcoinM7G_JiFPDnE5-x1tchQF2NAI-iKGgTReJD6wWL1rDmu3yu-i6jXbAaQzsMQjnyRMdic9tZmfGPKqCPScdkUsvSeDV-u6l9_75dMgNivVDAZHTVL6thA42uS4tCJREhBeFokx6jqkg8_2taaQXps1GhSWpn9Ue88ayMvvh-6LH1rpqpJVlw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJVVVVwrP4zUwR5YDG2yqkpmo",
+         "rating" : 3.8,
+         "reference" : "ChIJVVVVwrP4zUwR5YDG2yqkpmo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "1374 Main Street North, Stittsville"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2647162,
+               "lng" : -75.9292944
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.26610487989272,
+                  "lng" : -75.92799602010729
+               },
+               "southwest" : {
+                  "lat" : 45.26340522010728,
+                  "lng" : -75.93069567989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f18b2e3f2f37797c62b39db60f0a90c4ff66482f",
+         "name" : "Roma Pizzeria",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ__8vB6oA0kwRtEFOCxY6Gro",
+         "plus_code" : {
+            "compound_code" : "737C+V7 Goulbourn, Ottawa, ON",
+            "global_code" : "87Q6737C+V7"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ__8vB6oA0kwRtEFOCxY6Gro",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "1 Hobin St, Stittsville"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2740277,
+               "lng" : -75.9634198
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.27540872989272,
+                  "lng" : -75.96207597010728
+               },
+               "southwest" : {
+                  "lat" : 45.27270907010728,
+                  "lng" : -75.96477562989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c8236717f80f3923914f5301ef7052d9368c86ae",
+         "name" : "Canada Bread Company limited",
+         "place_id" : "ChIJi5vCB9AA0kwRtV0uwTnvoRY",
+         "plus_code" : {
+            "compound_code" : "72FP+JJ Goulbourn, Ottawa, ON",
+            "global_code" : "87Q672FP+JJ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJi5vCB9AA0kwRtV0uwTnvoRY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "118 Willowlea Rd, Carp"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.29843959999999,
+               "lng" : -75.88963099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.29978382989272,
+                  "lng" : -75.88827482010728
+               },
+               "southwest" : {
+                  "lat" : 45.29708417010728,
+                  "lng" : -75.89097447989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cbcae3bc4bad7412ef422f5aa5a699c69e56a53d",
+         "name" : "Milano Pizzeria",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 756,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117286895734721022438/photos\"\u003eMazen Kassis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPhVIPvdo-gm6D5_EPNPUCTE-wfo7sk_WXG0b0Vb4aJOfRa28m7M8hW0rAWRVs9Cv6ZzV_ArTMhFsN9fKbrcrIbLdJ-735U4SCsNm5rkpt8FaDAgN4PX_7toxVp3Vj8_oEhBo1nRwImHog8yfGk8ZkZ0zGhTOH62I-yCAGX2SjUtL_WiwNOmsGg",
+               "width" : 766
+            }
+         ],
+         "place_id" : "ChIJnTmLNJ__zUwRwhaMC0_us4s",
+         "plus_code" : {
+            "compound_code" : "74X6+94 Kanata, Ottawa, ON",
+            "global_code" : "87Q674X6+94"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJnTmLNJ__zUwRwhaMC0_us4s",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "471 Hazeldean Rd, Kanata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2724542,
+               "lng" : -75.9329283
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.27387197989272,
+                  "lng" : -75.93166337010727
+               },
+               "southwest" : {
+                  "lat" : 45.27117232010728,
+                  "lng" : -75.93436302989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "73e34e36ac2f1b4578bdc82b60f2b65395897209",
+         "name" : "Gabriel Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJRZNkcaYA0kwRvuZFD7Gcf18",
+         "plus_code" : {
+            "compound_code" : "73C8+XR Goulbourn, Ottawa, ON",
+            "global_code" : "87Q673C8+XR"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJRZNkcaYA0kwRvuZFD7Gcf18",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "6081 Hazeldean Rd, Stittsville"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2659952,
+               "lng" : -75.93029589999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.26728642989272,
+                  "lng" : -75.92888027010727
+               },
+               "southwest" : {
+                  "lat" : 45.26458677010728,
+                  "lng" : -75.93157992989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9e97914772cc16f104dcb149f2aeabd935bd8457",
+         "name" : "Napoli's Café",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1912,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107677386100120319220/photos\"\u003eNapoli&#39;s Cafe &amp; Grill\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAw7AUJSDAjlZldlfmH5-3PFsT8_nUYNVghMMWYwnhdXX6gZFnhspL_t4rgqoOkw71RGS_qG9Exfq4mV-3b2B-TfDYMcQzHBj5B9s4LQMbQqdX_nvAJuZZs9OzJk9yYEwEhCZKULeCYiFjm8956RtczEPGhQjQ4g7uR1dxGnEo63ummvlcH7dpQ",
+               "width" : 1912
+            }
+         ],
+         "place_id" : "ChIJH5vxjakA0kwRSlAbnt8hbfg",
+         "plus_code" : {
+            "compound_code" : "7389+9V Goulbourn, Ottawa, ON",
+            "global_code" : "87Q67389+9V"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJH5vxjakA0kwRSlAbnt8hbfg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "1300 Stittsville Main St, Stittsville"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2892546,
+               "lng" : -75.9031147
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.29066182989273,
+                  "lng" : -75.90183227010729
+               },
+               "southwest" : {
+                  "lat" : 45.28796217010728,
+                  "lng" : -75.90453192989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a78195d53e237e016547a42aa0f527edf8177d16",
+         "name" : "Kal's Place Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113018337132479316251/photos\"\u003eFawzi Mankal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdnGeUkxpsn5qDX_cCYDEw4EbDVt7NPqp-hwsx19RRXSIOEjuhHeHmFzxH9fs34lLPJu_9dVkpekCVzvwvhN2KHXSMbensuk-wYweMvlhwtXSXfrhtF0GEACkFGGTs_j-EhDcTD4v45A4tGt9K_QfvXxqGhSDSH3iffs2wVZXEt3ZPknv2rpx7Q",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJi0aCvXD_zUwRhmbSHmK8Nc8",
+         "plus_code" : {
+            "compound_code" : "73QW+PQ Kanata, Ottawa, ON",
+            "global_code" : "87Q673QW+PQ"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJi0aCvXD_zUwRhmbSHmK8Nc8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "5517 Hazeldean Rd, Stittsville"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2726573,
+               "lng" : -75.932554
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.27395307989272,
+                  "lng" : -75.93109242010726
+               },
+               "southwest" : {
+                  "lat" : 45.27125342010727,
+                  "lng" : -75.93379207989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0312dcc87407ab68e4447a41f629a8a7adcd7670",
+         "name" : "Pocopazzo",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106826276175972791915/photos\"\u003ePoccopazzo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxYGLIUHrKRWq47x8GtXV_7AfosbhOh7oDK1xtjLewJhH2rBDux1WO17UPDb4lkmwvdfkl4b9jePY80JfskPsxsSHMDEkz2D9jdKS1zqgpgyL4hWlBq4s6DIdDVB3eqsuEhDz8-sImPbF9yVHKhlxP0ZrGhS56kFB_LDG58UeRxfN_PF4KtFntQ",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJoSBCcaYA0kwRWShCVRyXYjY",
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJoSBCcaYA0kwRWShCVRyXYjY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "Jackson Trails Mall, 6081 Hazeldean Rd, Stittsville"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stittsville",
+               "short_name" : "Stittsville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Goulbourn",
+               "short_name" : "Goulbourn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stittsville, Ottawa, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2938021,
+                  "lng" : -75.8934247
+               },
+               "southwest" : {
+                  "lat" : 45.2378159,
+                  "lng" : -75.9570738
+               }
+            },
+            "location" : {
+               "lat" : 45.2585131,
+               "lng" : -75.92077669999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2938021,
+                  "lng" : -75.8934247
+               },
+               "southwest" : {
+                  "lat" : 45.2378159,
+                  "lng" : -75.9570738
+               }
+            }
+         },
+         "place_id" : "ChIJnfScL1P_zUwRxVe8NpDwqH0",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
