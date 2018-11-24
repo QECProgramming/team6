@@ -1,3 +1,5 @@
+# prints the names of all pizza restaurants contained in the price database
+
 def pageRead(url):
     import requests
     from bs4 import BeautifulSoup as bs
